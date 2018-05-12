@@ -1,0 +1,33 @@
+_repo: Theatro-de-Jo-o-d-Andrade-Corvo---IO-Alliciador---O-Astrologo_28414
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corvo, João de Andrade
+    aliases:
+    - Andrade Corvo, João de
+    - Corvo, Joao de Andrade
+    birthdate: 1824
+    deathdate: 1890
+    gutenberg_agent_id: '33321'
+    url: http://www.gutenberg.org/2009/agents/33321
+    wikipedia: http://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Andrade_Corvo
+description: ''
+gutenberg_bookshelf: PT Teatro
+gutenberg_issued: '2009-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28414'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese drama'
+title: 'Theatro de João d''Andrade Corvo - I
+
+  O Alliciador - O Astrologo'
+url: http://www.gutenberg.org/ebooks/28414
